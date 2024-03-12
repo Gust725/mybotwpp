@@ -1,0 +1,10 @@
+2024/03/12-08:24:42.581 3898 Reusing MANIFEST C:\Users\netfl\OneDrive\Documentos\Archivos NodeJS\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/12-08:24:42.586 3898 Recovering log #36
+2024/03/12-08:24:42.673 3898 Reusing old log C:\Users\netfl\OneDrive\Documentos\Archivos NodeJS\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2024/03/12-08:24:59.222 2974 Level-0 table #41: started
+2024/03/12-08:24:59.244 2974 Level-0 table #41: 1134627 bytes OK
+2024/03/12-08:24:59.245 2974 Delete type=0 #36
+2024/03/12-08:24:59.246 2974 Compacting 1@1 + 1@2 files
+2024/03/12-08:24:59.296 2974 Generated table #42@1: 26653 keys, 890625 bytes
+2024/03/12-08:24:59.296 2974 Compacted 1@1 + 1@2 files => 890625 bytes
+2024/03/12-08:24:59.296 2974 compacted to: files[ 0 0 1 0 0 0 0 ]
